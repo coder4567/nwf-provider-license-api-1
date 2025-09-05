@@ -16,7 +16,7 @@ services:
       - key: LCP_ADMIN_USER
         value: "admin"
       - key: LCP_ADMIN_PASS
-        sync: false    # set in dashboard: adminPass!!
+        sync: false    
       - key: STATIC_USER_KEY_HEX
         value: "2ED06766795D58A4F22D511A672F20A6B096D3FE5B56AF3A744678A9A356FD82"
       - key: PROVIDER_ADMIN_TOKEN
